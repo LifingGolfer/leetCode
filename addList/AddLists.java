@@ -4,14 +4,11 @@ public class AddLists {
 	
 	
 	public static void main(String[] args) {
-		
-		// TODO Auto-generated method stub
+
 		ListNode l1, l2 = new ListNode();
 		int list1[] = {3,7};
 		int list2[] = {9,2};
-		
-		
-		
+
 		ListNode printNodes = new ListNode();
 		
 		l1 = makeList(list1);

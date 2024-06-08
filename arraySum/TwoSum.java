@@ -2,7 +2,7 @@ package arraySum;
 
 import java.util.HashMap;
 
-public class twoSum {
+public class TwoSum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
